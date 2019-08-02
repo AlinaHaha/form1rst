@@ -1,0 +1,7 @@
+.form {
+  border: 5px dashed;
+  display: flex;
+  flex-wrap: wrap;
+  padding: 100px;
+
+}
